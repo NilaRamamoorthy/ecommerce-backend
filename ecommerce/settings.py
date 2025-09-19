@@ -62,7 +62,7 @@ ROOT_URLCONF = 'ecommerce.urls'
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5500",  # local frontend
-    "https://ecommerce-frontend-65gi.vercel.app/",  # deployed frontend
+    "https://ecommerce-frontend-65gi.vercel.app",  # deployed frontend
 ]
 
 
